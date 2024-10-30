@@ -23,8 +23,6 @@ check out - https://github.com/TheLocalhostLive/
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ant-Tonmay&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ant-Tonmay&layout=compact&theme=radical)
 
 ## 💬 Let's Connect!
